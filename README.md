@@ -24,7 +24,7 @@ dependencyResolutionManagement {
 
 ```kotlin
 dependencies {
-    implementation("ru.fingerru:agent:1.0.0")
+    implementation("ru.fingerru:agent:1.1.0")
 }
 ```
 
